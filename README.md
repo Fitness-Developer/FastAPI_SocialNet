@@ -6,6 +6,7 @@
 - PostgreSQL
 - Redis
 - Alembic migrate
+- nginx
 - Docker + Docker Compose
 
 ### 🚀 Как запустить
