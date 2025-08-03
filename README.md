@@ -5,6 +5,7 @@
 - FastAPI
 - PostgreSQL
 - Redis
+- Alembic mig
 - Docker + Docker Compose
 
 ### 🚀 Как запустить
