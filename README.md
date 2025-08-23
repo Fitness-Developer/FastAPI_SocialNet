@@ -8,6 +8,7 @@
 - Alembic migrate
 - nginx
 - Docker + Docker Compose
+- pytest
 
 ### 🚀 Как запустить
 
