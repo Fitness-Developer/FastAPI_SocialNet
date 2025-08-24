@@ -1,5 +1,5 @@
 # FastAPI Social Network API
-watching API only to /docs
+watching API only to - /docs
 ### 📦 Технологии
 
 - FastAPI
